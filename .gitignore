@@ -1,0 +1,27 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Environment variables (Crucial: Protections for API Keys)
+.env
+.env.local
+**/ .env
+**/ .env.local
+
+# Build outputs
+dist/
+build/
+.next/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# IDEs
+.vscode/
+.idea/
