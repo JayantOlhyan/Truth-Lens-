@@ -10,7 +10,7 @@
 
 ![Hero Banner](file:///Users/jayantolhyan/.gemini/antigravity/brain/dcc99e91-8bc5-44e4-a202-c9cd413de16c/truthlens_final_completion_check_1774790681974.webp)
 
-> **Verify the Unknown.** Detect fake news, deep‑fake images, and AI‑generated misinformation instantly with our multi‑modal forensic engine.
+> **Verify the Unknown.** Detect fake news, deep‑fake images, and AI‑generated misinformation instantly with our multi‑modal forensic engine
 
 TruthLens AI is a high‑performance verification platform built for the modern disinformation era. Leveraging **Google Gemini 1.5 Pro**, it analyses linguistic patterns in text and visual artifacts in images to deliver a data‑backed **Trust Score** and actionable recommendations.
 
